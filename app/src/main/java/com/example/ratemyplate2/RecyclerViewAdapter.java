@@ -154,7 +154,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         TextView imageName;
         TextView imageCaption;
         CircleImageView image;
-        ConstraintLayout parentLayout;
+        RelativeLayout parentLayout;
 
 
         public ViewHolder(View itemView) {
