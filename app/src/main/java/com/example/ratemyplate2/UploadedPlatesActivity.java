@@ -42,9 +42,9 @@ public class UploadedPlatesActivity extends MenuActivity {
 //        PlateCollection.get(getApplication()).savePlates();
 //    }
 
-//    @Override
-//    public void onBackPressed(){
-//
-//    }
+   @Override
+   public void onBackPressed(){
+
+   }
 
 }
